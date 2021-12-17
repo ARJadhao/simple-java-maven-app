@@ -12,7 +12,7 @@ pipeline {
                 script{
                     try{
                         def v = 7/0
-                    }catch(e){
+                    }catch(Exception e){
                         throw e                    
                     }
                 }
