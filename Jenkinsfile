@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('Build') { 
             steps {
-                sh 'mvn package -Dmaven.test.skip=false' 
+                sh 'mvn package -Dmaven.test.skip=true' 
                 script{
                     try{
                         def v = 7/0
