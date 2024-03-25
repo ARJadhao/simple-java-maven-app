@@ -21,3 +21,4 @@ fix epoch in parsers
 resolve issue test 2
 extract commit id in jenkins
 test feature
+test json type in postgres
