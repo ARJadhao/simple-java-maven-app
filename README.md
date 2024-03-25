@@ -20,5 +20,4 @@ check deployment events from feature to master 2
 fix epoch in parsers
 resolve issue test 2
 extract commit id in jenkins
-test 4
-test 20
+test feature
