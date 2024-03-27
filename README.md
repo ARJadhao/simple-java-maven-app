@@ -23,3 +23,4 @@ extract commit id in jenkins
 test feature
 test json type in postgres
 extract commits test 2
+deployment 2
